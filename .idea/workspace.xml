@@ -26,8 +26,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5a9fd5-c9d7-46cd-bcac-7c4d1f80c734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-merge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-pull-request.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/ProfilePic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/ProfilePic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +50,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1glsGXKizSbxgep77V7Nz5XIzvl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.6.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.35" />
+    <property name="last_opened_file_path" value="D:/nodejs/node.exe" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krist\IdeaProjects\krristiSite\public\assets\img\portfolio" />
       <recent name="C:\Users\krist\PhpstormProjects\krristiSite\public" />
     </key>
   </component>
@@ -70,6 +86,10 @@
       <workItem from="1598700419215" duration="5688000" />
       <workItem from="1598722485836" duration="7091000" />
       <workItem from="1598729655552" duration="1547000" />
+      <workItem from="1616322123500" duration="314000" />
+      <workItem from="1616322804160" duration="1344000" />
+      <workItem from="1616324279777" duration="1544000" />
+      <workItem from="1616325920566" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="stupid commit">
       <created>1599390672194</created>
@@ -97,13 +117,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="stupid commit" />
     <option name="LAST_COMMIT_MESSAGE" value="stupid commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599390675258">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599390675258" />
   </component>
 </project>
