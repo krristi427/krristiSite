@@ -26,15 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5a9fd5-c9d7-46cd-bcac-7c4d1f80c734" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-merge.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-pull-request.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/ProfilePic.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/ProfilePic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
@@ -89,7 +80,7 @@
       <workItem from="1616322123500" duration="314000" />
       <workItem from="1616322804160" duration="1344000" />
       <workItem from="1616324279777" duration="1544000" />
-      <workItem from="1616325920566" duration="723000" />
+      <workItem from="1616325920566" duration="2473000" />
     </task>
     <task id="LOCAL-00001" summary="stupid commit">
       <created>1599390672194</created>
@@ -98,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599390672194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":sparkles: changed profile pic">
+      <created>1616326819056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616326819056</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":broom: updated README.md">
+      <created>1616326957648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616326957648</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":broom: added email address">
+      <created>1616330254625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616330254625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +131,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="stupid commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="stupid commit" />
+    <MESSAGE value=":sparkles: changed profile pic" />
+    <MESSAGE value=":broom: updated README.md" />
+    <MESSAGE value=":broom: added email address" />
+    <option name="LAST_COMMIT_MESSAGE" value=":broom: added email address" />
   </component>
 </project>
